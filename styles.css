@@ -2,12 +2,19 @@ body {
     font-family: "Nunito Sans", sans-serif;
 }
 
-img {
+#image {
     max-width: 100%;
     height: auto;
     display: block;
+    border-radius: 50%;
+    border: px solid #000;
 }
   
 #img-div {
     text-align: center;
+}
+
+h1 {
+    padding: 10px;
+    margin-left: 20px;
 }
